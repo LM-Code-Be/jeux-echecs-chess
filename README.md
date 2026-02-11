@@ -2,6 +2,9 @@
 
 Un jeu d'échecs web complet développé avec React, TypeScript et Vite. Il propose un mode 1 vs 1 local, un adversaire IA avec 5 niveaux de difficulté, un système de chronomètre complet (Bullet, Blitz, Rapide, Classique, Fischer) et une interface moderne avec plusieurs thèmes visuels.
 
+<img width="765" height="777" alt="image" src="https://github.com/user-attachments/assets/40deecc3-1126-4b47-bb55-d32a67f4bfa2" />
+
+
 ## Fonctionnalités
 
 - **Partie locale 1 vs 1** — jouez contre un ami sur le même écran
@@ -12,6 +15,9 @@ Un jeu d'échecs web complet développé avec React, TypeScript et Vite. Il prop
 - **Contrôles intuitifs** — drag & drop et clic pour déplacer les pièces
 - **Historique des coups** — notation algébrique en temps réel
 - **Annulation** — revenez en arrière à tout moment
+
+<img width="1210" height="680" alt="image" src="https://github.com/user-attachments/assets/10733ddd-b02a-4ca4-b426-d19584614115" />
+
 
 ## Stack technique
 
