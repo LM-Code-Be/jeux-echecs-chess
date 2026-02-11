@@ -1,0 +1,102 @@
+/* Theme CSS Variables */
+
+/* Classic Theme (Default) */
+:root,
+[data-theme='classic'] {
+  /* Board colors */
+  --board-light: #f0d9b5;
+  --board-dark: #b58863;
+
+  /* Accent colors */
+  --accent-primary: #769656;
+  --accent-secondary: #baca44;
+
+  /* Background colors */
+  --bg-primary: #312e2b;
+  --bg-secondary: #262421;
+
+  /* Text colors */
+  --text-primary: #ffffff;
+  --text-secondary: #b0b0b0;
+
+  /* Highlight colors */
+  --highlight-move: rgba(155, 199, 0, 0.4);
+  --highlight-check: rgba(239, 68, 68, 0.4);
+  --highlight-last-move: rgba(255, 255, 0, 0.3);
+}
+
+/* Modern Theme */
+[data-theme='modern'] {
+  --board-light: #eeeed2;
+  --board-dark: #769656;
+
+  --accent-primary: #4a90e2;
+  --accent-secondary: #7cb9e8;
+
+  --bg-primary: #1e1e2e;
+  --bg-secondary: #181825;
+
+  --text-primary: #cdd6f4;
+  --text-secondary: #a6adc8;
+
+  --highlight-move: rgba(74, 144, 226, 0.4);
+  --highlight-check: rgba(243, 139, 168, 0.4);
+  --highlight-last-move: rgba(249, 226, 175, 0.3);
+}
+
+/* Dark Theme */
+[data-theme='dark'] {
+  --board-light: #779952;
+  --board-dark: #4e6b3d;
+
+  --accent-primary: #88c0d0;
+  --accent-secondary: #8fbcbb;
+
+  --bg-primary: #2e3440;
+  --bg-secondary: #3b4252;
+
+  --text-primary: #eceff4;
+  --text-secondary: #d8dee9;
+
+  --highlight-move: rgba(136, 192, 208, 0.4);
+  --highlight-check: rgba(191, 97, 106, 0.4);
+  --highlight-last-move: rgba(235, 203, 139, 0.3);
+}
+
+/* Wood Theme */
+[data-theme='wood'] {
+  --board-light: #f0d0a0;
+  --board-dark: #8b5a3c;
+
+  --accent-primary: #cd853f;
+  --accent-secondary: #daa520;
+
+  --bg-primary: #3e2723;
+  --bg-secondary: #4e342e;
+
+  --text-primary: #ffd7a6;
+  --text-secondary: #d7a47b;
+
+  --highlight-move: rgba(205, 133, 63, 0.4);
+  --highlight-check: rgba(178, 34, 34, 0.4);
+  --highlight-last-move: rgba(255, 215, 0, 0.3);
+}
+
+/* Marble Theme */
+[data-theme='marble'] {
+  --board-light: #e8e8e8;
+  --board-dark: #808080;
+
+  --accent-primary: #9370db;
+  --accent-secondary: #ba55d3;
+
+  --bg-primary: #1a1a2e;
+  --bg-secondary: #16213e;
+
+  --text-primary: #f0f0f0;
+  --text-secondary: #c0c0c0;
+
+  --highlight-move: rgba(147, 112, 219, 0.4);
+  --highlight-check: rgba(220, 20, 60, 0.4);
+  --highlight-last-move: rgba(255, 215, 0, 0.3);
+}
