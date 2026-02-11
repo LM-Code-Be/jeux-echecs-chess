@@ -1,6 +1,7 @@
 # ♔ Échecs Pro ♔
 
 Un jeu d'échecs web complet développé avec React, TypeScript et Vite. Il propose un mode 1 vs 1 local, un adversaire IA avec 5 niveaux de difficulté, un système de chronomètre complet (Bullet, Blitz, Rapide, Classique, Fischer) et une interface moderne avec plusieurs thèmes visuels.
+Lien pour visionner la démo [Youtube](https://youtu.be/BWptQdi4AXo)
 
 <img width="765" height="777" alt="image" src="https://github.com/user-attachments/assets/40deecc3-1126-4b47-bb55-d32a67f4bfa2" />
 
@@ -104,3 +105,4 @@ MIT — libre d'utilisation et de modification.
 ---
 
 Projet open source par [Michaël — lm-code.be](https://lm-code.be)
+Lien pour visionner la démo [Youtube](https://youtu.be/BWptQdi4AXo)
